@@ -1,0 +1,22 @@
+.navbar-bg-red {
+    /* background-color: #453454 !important; */
+    background-color: #f04040 !important;
+}
+
+.navbar .nav-link {
+    font-size: 18px;
+}
+
+.btn-entrar {
+    background-color: #453454;
+    border: 3px solid #453454;
+    padding: 7px 50px !important;
+}
+
+.link-underline:hover {
+    text-decoration: underline !important;
+}
+
+.btn-entrar:hover {
+    border: 3px solid #453454;
+}

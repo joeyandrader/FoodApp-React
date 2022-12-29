@@ -1,0 +1,16 @@
+.header-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.header-banner h1 {
+    font-size: 50px;
+}
+
+.header-banner p {
+    font-size: 20px;
+    color: #ccc;
+}
