@@ -1,14 +1,14 @@
-.register-container {
+.login-container {
     width: 100%;
     position: relative;
-    background-image: url('/public/img/undraw_Tasting_re_3k5a.png');
+    background-image: url('/public/img/undraw_breakfast_psiw.png');
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: -150px;
     background-size: contain;
     height: 100vh !important;
 }
 
-.register-panel {
+.login-panel {
     position: absolute;
     right: 0;
     bottom: 0;
@@ -19,6 +19,10 @@
     flex-direction: column;
     justify-content: center;
     height: auto;
+}
+
+.login-panel form {
+    margin: 20px 0;
 }
 
 .header-panel {
@@ -36,4 +40,9 @@
 .header-panel div a {
     padding-left: 10px;
     color: #f04040;
+}
+
+.link-a {
+    color: #f04040;
+    text-decoration: none;
 }

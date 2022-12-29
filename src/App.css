@@ -3,3 +3,39 @@
     justify-content: space-around;
     align-items: center;
 }
+
+/* my btns color */
+.my-default-btn {
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-p1 {
+    background-color: #f04040;
+    border: 3px solid #f04040;
+    padding: 7px 50px !important;
+    color: whitesmoke;
+    display: block;
+}
+
+.btn-p1:hover {
+    border: 3px solid #f04040;
+    color: #f04040;
+}
+
+.btn-back {
+    background-color: #f04040;
+    padding: 5px;
+    display: inline-block;
+    width: 50px;
+    border-radius: 5px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.form-label {
+    font-weight: bold;
+}
